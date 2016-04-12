@@ -1,8 +1,8 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Tuesday Lecture
 
-- Announcements?
-- [Code Review](#codereview) *[30 minutes]*
+- Announcements? Q&A?
+- [Code Review](#codereview) *[20 minutes]*
 - [Go over the assigned readings](#readings) *[60 minutes]*
 - [Code demo](#code) *[90 minutes]*
 
@@ -49,7 +49,5 @@
 
 <a id="code"></a>
 ### Live code
-
-This code demo is to help students be ready to complete the first assignment, and also to show off some functionality of the REPL and Chrome Developer Tools.
 
 [-top-](#top)

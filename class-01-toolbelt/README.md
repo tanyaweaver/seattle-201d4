@@ -136,6 +136,6 @@ Have students go to the command line and `apm install linter-eslint`. Have them 
 <a id="code"></a>
 ### Live code
 
-This code demo is to help students be ready to complete the first assignment (an About Me page and the start of a guessing game), and also to show off some functionality of the REPL and Chrome Developer Tools. This demo should also reveal any lingering issues with student computer setups.
+This code demo is to help students be ready to complete the first assignment and also to show off some functionality of the REPL and Chrome Developer Tools. This demo should also reveal any lingering issues with student computer setups.
 
 [-top-](#top)

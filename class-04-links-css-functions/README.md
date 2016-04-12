@@ -66,6 +66,5 @@ We'll do code reviews to begin class most days
 <a id="code"></a>
 ### Live code
 
-This code demo is to help students be ready to complete the first assignment, and also to show off some functionality of the REPL and Chrome Developer Tools.
 
 [-top-](#top)
