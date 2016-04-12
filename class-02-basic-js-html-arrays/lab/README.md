@@ -44,13 +44,13 @@ As a developer, I want to provide five questions to the user, so that they can g
 
 ##### Git Commands:
 
-- git status              Provides a detailed description of current state in working directory
+- `git status`              Provides a detailed description of current state in working directory
 
-- git add <file>          Include file in staged/tracked status of working directory
+- `git add <file>`          Include file in staged/tracked status of working directory
 
-- git commit -m ''        Snapshot the tracked changes in current working directory; with message
+- `git commit -m ''`        Snapshot the tracked changes in current working directory; with message
 
-- git push                Push local commits to GitHub
+- `git push`                Push local commits to GitHub
 
 # Add, Commit, Push (ACP): Learn it. Know it. Live it.
 
