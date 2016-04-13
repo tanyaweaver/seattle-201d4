@@ -11,7 +11,6 @@
 
 - HTML Chapter 4: "Links"
 - HTML Chapter 10: "Introducing CSS"
-- HTML Chapter 11: "Color" (CSS)
 - JS Chapter 3: "Functions, Objects, and Methods" pp.85-99
 
 ---
@@ -38,14 +37,15 @@ We'll do code reviews to begin class most days
 - p.85: Email links
 - p.86: Opening links in a new window
 
-**HTML Chapter 11: "Color" (CSS)**
+**HTML Chapter 10: "Introducing CSS"**
 
-- p.249: Foreground color
-- p.250: Background color
-- pp.251-52: Understanding color (excellent overview)
-- p.253: Contrast
-- p.254: Opacity
-- p.255: HSL colors
+- p.229: Understanding CSS: Thinking inside the box (!!!)
+- p.230-1: How CSS associates with HTML and affects their display
+- p.235: Using external class
+- pp.237-8: CSS selectors (with VERY handy reference chart)
+- p.239: How CSS rules cascade
+- p.240: Inheritance
+- p.242: Browser quirks
 
 **JS Chapter 3: "Functions, Objects, and Methods" (pp.85-99)**
 

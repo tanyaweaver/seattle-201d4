@@ -9,7 +9,6 @@
 # Readings
 
 - HTML Chapter 3: "Lists"
-- HTML Chapter 10: "Introducing CSS"
 - JS Chapter 4: "Decisions & Loops"
 
 ---
@@ -32,16 +31,6 @@ We'll do code reviews to begin class most days
 - p.66: Unordered/bullet lists
 - p.67: Definition lists
 - p.68: Nested lists
-
-**HTML Chapter 10: "Introducing CSS"**
-
-- p.229: Understanding CSS: Thinking inside the box (!!!)
-- p.230-1: How CSS associates with HTML and affects their display
-- p.235: Using external class
-- pp.237-8: CSS selectors (with VERY handy reference chart)
-- p.239: How CSS rules cascade
-- p.240: Inheritance
-- p.242: Browser quirks
 
 **JS Chapter 4: "Decisions & Loops"**
 
