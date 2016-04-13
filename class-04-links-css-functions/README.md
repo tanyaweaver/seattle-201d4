@@ -10,6 +10,7 @@
 # Readings
 
 - HTML Chapter 4: "Links"
+- HTML Chapter 10: "Introducing CSS"
 - HTML Chapter 11: "Color" (CSS)
 - JS Chapter 3: "Functions, Objects, and Methods" pp.85-99
 

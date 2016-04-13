@@ -12,6 +12,7 @@
 # Readings
 
 - HTML Chapter 5: "Images"
+- HTML Chapter 11: "Color" (CSS)
 - HTML Chapter 12: "Text" (CSS)
 
 ---
@@ -36,6 +37,15 @@ We'll do code reviews to begin class most days
 - p.107: 3 rules for creating images
 - p.109: Image formats (JPG, GIF, PNG)
 - Other topics: dimensions, cropping, resolution, vector, animation, transparency, inspecting on web
+
+**HTML Chapter 11: "Color" (CSS)**
+
+- p.249: Foreground color
+- p.250: Background color
+- pp.251-52: Understanding color (excellent overview)
+- p.253: Contrast
+- p.254: Opacity
+- p.255: HSL colors
 
 **HTML Chapter 12: "Text" (CSS)**
 
