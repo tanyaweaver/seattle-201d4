@@ -6,9 +6,9 @@ Since you have 4 hours in which to edit two projects, you'll need to work effici
 
 ### Pair Programming Basics
 
-- In pair programming there are two developers working on a single body of code on a single computer. One member of the pair is the Driver, and this person will be the one doing all of the typing actual work on the laptop. The other member of the pair is the Navigator, and this person will work with only their voice and their thoughts.
+- In pair programming there are two developers working on a single body of code on a single computer. One member of the pair is the Driver, and this person will be the one doing all of the actual typing work on the laptop. The other member of the pair is the Navigator, and this person will work with only their voice and their thoughts.
 
-- The Navigator does not touch the keyboard, nor does the Navigator work on their laptop "on the side." The Navigator is fully engaged with the work that the pair is doing, typically using at most a piece of scratch paper to sketch diagrams, take notes, or list ideas. Again, the Navigator does not touch the keyboard, nor does the Navigator work on their laptop "on the side" except to perhaps to keep a copy of this assignment document open or to look up something needed to write the code, such as a reference page. Under no circumstances does the Navigator work on any code on their laptop: for the pair programming process to be effective, both parties must be fully engaged on the code they're working on together.
+- The Navigator does not touch the keyboard, nor does the Navigator work on their laptop "on the side". The Navigator is fully engaged with the work that the pair is doing, typically using at most a piece of scratch paper to sketch diagrams, take notes, or list ideas. Again, the Navigator does not touch the keyboard, nor does the Navigator work on their laptop "on the side" except to perhaps to keep a copy of this assignment document open or to look up something needed to write the code, such as a reference page like MDN. Under no circumstances does the Navigator work on any code on their laptop: for the pair programming process to be effective, both parties must be fully engaged on the code they're working on together.
 
 ### General Workflow for this Assignment
 
@@ -52,9 +52,9 @@ Note: Before starting these steps, make sure that both of your repositories are 
 
 - Once everything is finished, and the Driver has done the last edits and pushed them to GitHub, it's time to send the edited code to the owner (who has been in the Navigator role the whole time, of course). We do this with a GitHub feature called a pull request.
 
-- From the Driver's repo that is a fork of the Navigator's repo, hit the green button that says 'Create pull request'
+- From the Driver's repo that is a fork of the Navigator's repo, hit the green button that says 'Create pull request'.
 
-- Follow the remaining steps as described onscreen and as shown here: https://help.GitHub.com/articles/using-pull-requests. (These instructions for doing a pull request from a forked repo to its source are deliberately vague, to give you practice in reading through instructions, trying things out, solving problems collaboratively, and getting guidance from documentation.)
+- Follow the remaining steps as described onscreen and as shown here: https://help.GitHub.com/articles/using-pull-requests. (These instructions for doing a pull request from a forked repo to its source are deliberately vague, to give you practice in reading through instructions, trying things out, solving problems collaboratively, and getting guidance from documentation).
 
 - The owner of the code (the Navigator) then goes to their GitHub repo for the project and accepts the pull request. After that, in terminal on their laptop, while in the game directory, enter the command 'git pull origin master' to retrieve the modified code from GitHub.
 
