@@ -2,10 +2,15 @@
 # Today's Plan: Week 1, Thursday Lecture
 
 - Announcements
-  - Quiz 1 will be published after class today. It will be due at 11:59p tomorrow night.
-- [Code Review](#codereview) *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- [Code demo](#code) *[90 minutes]*
+  - Quiz 1 will be published after class today. It will be due at 11:59p tomorrow (Friday) night.
+- [Code Review](#codereview) *[ZERO minutes]:* We're going to forego code review today and instead do a more structured review of the subject matter from yesterday.
+- [Go over the assigned readings](#readings) *[105 minutes]:* This will be split into three parts:
+  - 30 minutes on arrays (JS Ch.2) and control flow (JS Ch.4)
+  - 45 minutes on functions (first half of JS Ch.3)
+  - Take a 10 minute break
+  - 30 minutes on an introduction to CSS (HTML book Ch.10)
+  - 45 minutes on the pair programming workflow for today's lab, including forking with Git
+  - 15 minutes on HTML links (HTML Ch.4) if time allows
 
 # Readings
 
@@ -41,7 +46,7 @@ We'll do code reviews to begin class most days
 
 - p.229: Understanding CSS: Thinking inside the box (!!!)
 - p.230-1: How CSS associates with HTML and affects their display
-- p.235: Using external class
+- p.235: Linking your CSS file (vs. using a <style> tag)
 - pp.237-8: CSS selectors (with VERY handy reference chart)
 - p.239: How CSS rules cascade
 - p.240: Inheritance
@@ -59,13 +64,5 @@ We'll do code reviews to begin class most days
 - p.96: Anonymous functions & function expressions
 - p.97: IIFEs
 - p.98: Variable scope
-
-[-top-](#top)
-
----
-
-<a id="code"></a>
-### Live code
-
 
 [-top-](#top)
