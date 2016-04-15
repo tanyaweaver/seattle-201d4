@@ -3,17 +3,18 @@
 
 - Announcements
   - Quiz is due at 11:59p tonight.
-  - Reminder: weekly surveys will go out to students today
-  - Lab on Monday will be a pair programming assignment that you'll receive that morning
-- [Code Review](#codereview) *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- [Code demo](#code) *[90 minutes]*
+  - Reminder: weekly surveys will go out to students today. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
+- [Code Review](#codereview) *[60 minutes]*
+- [Go over the assigned readings](#readings) *[90 minutes]*
+- [Code demo + lab assignment](#code) *[30 minutes]*
 
 # Readings
 
-- HTML Chapter 5: "Images"
-- HTML Chapter 11: "Color" (CSS)
-- HTML Chapter 12: "Text" (CSS)
+- HTML Chapter 5: "Images" (Sam)
+- HTML Chapter 4: "Links" (Jonathan)
+- HTML Chapter 10: "Introducing CSS" (Jonathan)
+- HTML Chapter 11: "Color" (CSS) (Jonathan)
+- HTML Chapter 12: "Text" (CSS) (Sam)
 
 ---
 
@@ -29,6 +30,16 @@ We'll do code reviews to begin class most days
 <a id="readings"></a>
 ### Go over the assigned readings
 
+**HTML Chapter 4: "Links"**
+
+- p.77: Writing links (\<a\> tag structure)
+- p.79: Linking to other sites
+- p.80: Linking to other pages on the same site
+- p.81-82: Directory structure
+- p.83: Relative URLs
+- p.85: Email links
+- p.86: Opening links in a new window
+
 **HTML Chapter 5: "Images"**
 
 - p.97: Choosing and storing images
@@ -37,6 +48,16 @@ We'll do code reviews to begin class most days
 - p.107: 3 rules for creating images
 - p.109: Image formats (JPG, GIF, PNG)
 - Other topics: dimensions, cropping, resolution, vector, animation, transparency, inspecting on web
+
+**HTML Chapter 10: "Introducing CSS"**
+
+- p.229: Understanding CSS: Thinking inside the box (!!!)
+- p.230-1: How CSS associates with HTML and affects their display
+- p.235: Linking your CSS file (vs. using a <style> tag)
+- pp.237-8: CSS selectors (with VERY handy reference chart)
+- p.239: How CSS rules cascade
+- p.240: Inheritance
+- p.242: Browser quirks
 
 **HTML Chapter 11: "Color" (CSS)**
 
