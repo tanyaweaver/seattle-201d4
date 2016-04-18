@@ -1,5 +1,5 @@
 var duck = {
-  material: 'rubber',
+  materials: 'rubber',
   color: 'yellow',
   squeaks: false,
   favoriteFoods: ['ducknoms', 'peanut butter', 'children'],
@@ -20,3 +20,16 @@ document.body.appendChild(h1El);
 // Render the array as a list?
 // Look in the Elements tab!
 // Look at that awful dropdown menu?
+
+var horror = document.getElementById('horror');
+for (var i = 0; i <= 9999; i++) {
+  var digits = i.toString();
+  while (digits.length < 4) {
+    digits = '0' + digits;
+    console.log(digits);
+  }
+  var newOpt = document.createElement('option');
+  newOpt.value = digits;
+  newOpt.textContent = digits;
+  horror.appendChild(newOpt);
+}
