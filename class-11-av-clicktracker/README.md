@@ -1,0 +1,1 @@
+- JS book, Chapter 10: Error Handling & Debugging *[30-45 minutes]*
