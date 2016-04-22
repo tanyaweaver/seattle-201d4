@@ -2,7 +2,7 @@
 
 ### New Technical Goal
 
--Incorporate a CSS layout or framework into your page to improve the display
+-Incorporate some kind of CSS layout or a CSS framework into your page to improve the display
 
 ### sales-data.html
 
@@ -19,5 +19,5 @@
 - You may use a layout scheme that utilizes Flexbox if you want, or a CSS framework such as Skeleton. Or just do all of your layout by hand. It's up to you how you choose to do layout.
 - Think about the things that typically appear on the front page of a restaurant website: indicate the locations (you can make up fake addresses if you want), the hours open, a phone number (say, a fake one like 206-mmm-3001), and anything else you think should be there.
 - Maybe, go look at some restaurant or confections websites to get some ideas. A big part of creativity is learning how to adapt the ideas of others.
-- Reminder: Pat has asked that you use ALL of the four images provided in the assets/ directory. Ha ha.
+- Reminder: Pat has asked that you use ALL of the images provided in the assets/ directory. Ha ha.
 - Come up with a color scheme, and use a custom Google Font.
