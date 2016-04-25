@@ -9,10 +9,10 @@
 //Function declaration vs. function call
 
 function woo() {    // This is the function declaration
+  // alert('Wooooooo!!!!');
   console.log('Wooooooo!!!!');
-  alert('Wooooooo!!!!');
-  // whatLi = document.getElementById('what');
-  // whatLi.textContent('Wooooooo!!!!');
+  var eminemLi = document.getElementById('slim-shady');
+  eminemLi.textContent = 'Wooooooo!!!!';
 }
 
 // woo(); // This is a function call
@@ -30,9 +30,9 @@ function woo() {    // This is the function declaration
 // In those cases, the functions are declared with PARAMETERS and are called with ARGUMENTS.
 
 // Declared with three parameters
-// function clue(who, where, weapon) {
-//   console.log('The murder was committed by ' + who + ' in the ' + where + ' with the ' + weapon + '.');
-// }
+function clue(who, where, weapon) {
+  console.log('The murder was committed by ' + who + ' in the ' + where + ' with the ' + weapon + '.');
+}
 
 // Called with three arguments
 // clue('Benton', 'bathroom', 'CSS');
@@ -43,9 +43,9 @@ function woo() {    // This is the function declaration
 
 // Note that we can also pass in the values of externally declared variables when the function is called:
 
-// var murderer = 'Colonel Mustard';
-// var crimeScene = 'library';
-// var toolOfDeath = 'candlestick';
+var murderer = 'Colonel Mustard';
+var crimeScene = 'library';
+var toolOfDeath = 'candlestick';
 //
 // clue(murderer, crimeScene, toolOfDeath);
 
@@ -55,14 +55,14 @@ function woo() {    // This is the function declaration
 
 // What if we want the function to return information to the code that called it? For that, we use a 'return' statement.
 
-// function mathsAreHard(numOne, numTwo, numThree) {
-//   console.log('numOne is ' + numOne);
-//   console.log('numTwo is ' + numTwo);
+function mathsAreHard(numOne, numTwo, numThree) {
+  // console.log('numOne is ' + numOne);
+  // console.log('numTwo is ' + numTwo);
   // console.log('numThree is ' + numThree);
-  // var sum = numOne + numTwo + numThree;
+  var sum = numOne + numTwo + numThree;
   // console.log('The sum of these numbers is ' + sum);
-  // return sum;
-// }
+  return sum;
+}
 
 // mathsAreHard(2, 5, 9);
 
@@ -70,20 +70,35 @@ function woo() {    // This is the function declaration
 
 // What if we want multiple values out of a function? Let's create a new version of our previous function that shows that...
 
-// function mathsGetHarder(numOne, numTwo, numThree) {
-//   console.log('numOne is ' + numOne);
-//   console.log('numTwo is ' + numTwo);
-//   console.log('numThree is ' + numThree);
-//   var oneTimesTwo = numOne * numTwo;
-//   var twoOverThree = numTwo / numThree;
-//   var sum = numOne + numTwo + numThree;
-//   var results = [sum, oneTimesTwo, twoOverThree];
-//   return results;
-  // return [sum, oneTimesTwo, twoOverThree];
-// }
+function mathsGetHarder(numOne, numTwo, numThree) {
+  // numOne = 0;
+  var oneTimesTwo = numOne * numTwo;
+  var twoOverThree = numTwo / numThree;
+  var sum = numOne + numTwo + numThree;
+  var results = [sum, oneTimesTwo, twoOverThree];
+  // var commanderRiker;
+  return results;
+  // return 'WHAAAAAAAAA';
+}
 
-// console.log(mathsGetHarder(9, 5, 3) + ' is the output of mathsGetHarder(9, 5, 3)');
+var numOne = 99999;
+console.log(mathsGetHarder(9, 5, 3) + ' is the output of mathsGetHarder(9, 5, 3)');
 
 // ++++++++++++++++++++++++++++++++++++++++
 
 // Function Scope (we'll live code through this part)
+
+var dan = 'schwartz'; // GLOBAL
+
+function fire() {
+  var katie = 'kayeon'; // LOCAL VARIABLE
+  console.log('global dan is ' + dan);
+  dan = 'dieter';
+  console.log('actual dan is ' + dan);
+  return dan;
+}
+
+function ice(snow) {  // PARAMETERS BEHAVE LIKE LOCALS
+  var t = 'yeah';    // LOCAL VARIABLE
+  return t;
+}
